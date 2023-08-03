@@ -2,6 +2,8 @@
 在學習如何使用git控制及github之後練習上傳了此專案。
 
 
+目的是為了記錄我的練習成果
+
 這是我的資料庫管理的期末專題報告檔案，檔案內主要為html檔案以及包含sql server語法的php檔，以及一個css檔。
 
 CCUBike專案主要內容為在中正大學建立一個共享單車的系統，
@@ -18,4 +20,4 @@ CCUBike專案主要內容為在中正大學建立一個共享單車的系統，
 
 背後包括了自學如何安裝docker,azure data studio, sql server, homebrew, apache,htppd, html, php的辛酸血淚史。
 
-感謝收看，以上有任何問題的話，歡迎聯絡我!
+感謝收看，以上有任何問題的話，歡迎聯絡我
